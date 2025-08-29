@@ -14,10 +14,7 @@
 ### 🏆 Achievements
 - ✅ Blender Donut Project  
 - ✅ Python Basics Completed  
-- ✅ Created GitHub Profile README  
 
----
 
-### 🌀 Personal Quote
-> “Curiosity is my compass. Rebellion is my fuel.”
+
 
