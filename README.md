@@ -1,28 +1,5 @@
 ## Hi there 👋
 
-## 🧑‍💻 Maisha | Rebelheart | Always Curious
-
-- 🐍 Python Learner  
-- 🍩 Blender Donut Project Completed  
-- 🎯 Exploring everything Python-related  
-- 📍 Bangladesh 
-- 💫 Identity: Always Curious
-
----
-
-### 🚀 Progress at roadmap.sh
-- Visit streak: 1  
-- Completed: 1  
-- Learning: 0  
-
----
-
-### 🛠️ Technologies
-- Python  
-- Blender  
-- Markdown  
-
----
 
 ### 📊 GitHub Stats
 ![Maisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mai-umama&show_icons=true&theme=radical)
