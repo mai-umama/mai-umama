@@ -1,21 +1,5 @@
-<table>
-<tr>
-<td width="50%">
+### 📊 Maisha's GitHub Stats
 
-### 👩‍💻 Maisha Osman Umama  
-CSE Student  
-
-<br>
-
-[![roadmap.sh](https://roadmap.sh/account)](https://roadmap.sh/account)
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-umama&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mai-umama&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
