@@ -1,5 +1,4 @@
-### 📊 Maisha's GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mai-umama&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,blender"/>
 </p>
+
