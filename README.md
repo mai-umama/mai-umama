@@ -14,4 +14,4 @@ Hi, I am Umama<br>i am currently learning C++, machine learning and problem solv
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+[![ Umama's GitHub stats](https://github-readme-stats.vercel.app/api?username=mai-umama)](https://github.com/mai-umama/github-readme-stats)
