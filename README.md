@@ -19,8 +19,7 @@
       <td>
         
 .
-      </td>
-			<td rowspan="2"> [![My Languages](https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css)](https://github.com/mai-umama/mai-umama) </td>
+     </td>
 		</tr>
 		<tr>
 			<td> [![My Stats](https://github-readme-stats-ten-ashy-83.vercel.app/api?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/mai-umama/mai-umama) </td>
