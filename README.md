@@ -13,13 +13,9 @@ Hi, I am Umama<br>i am currently learning C++, machine learning and problem solv
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mai-umama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 📈 GitHub Stats
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mai-umama&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-umama&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mai-umama&theme=tokyonight&row=1" />
 </p>
 
