@@ -19,7 +19,7 @@ Hi, I am Umama<br>i am currently learning C++, machine learning and problem solv
     <tr>
       <td>
         
-[![Learning Roadmap](https://api.roadmap.sh/v1-badge/wide/698312415c049b2765d67ca4?variant=dark)](https://github.com/mai-umama/mai-umama) 
+(https://github.com/mai-umama/mai-umama) 
       </td>
 			<td rowspan="2"> [![My Languages](https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css)](https://github.com/mai-umama/mai-umama) </td>
 		</tr>
