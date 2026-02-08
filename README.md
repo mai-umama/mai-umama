@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hi, I am Umama<br>i am currently learning C++, machine learning and problem solving
-
+# 💫 Hi, I am Umama
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umamau418@gmail.com) 
@@ -13,14 +11,14 @@ Hi, I am Umama<br>i am currently learning C++, machine learning and problem solv
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mai-umama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Hi there 👋
+### 
 <table>
   <tbody>
     <tr>
-	<td>
-			.
-		</td>
-      
+      <td>
+        
+.
+      </td>
 			<td rowspan="2"> [![My Languages](https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css)](https://github.com/mai-umama/mai-umama) </td>
 		</tr>
 		<tr>
