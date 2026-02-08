@@ -13,4 +13,18 @@ Hi, I am Umama<br>i am currently learning C++, machine learning and problem solv
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mai-umama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+### Hi there 👋
+<table>
+  <tbody>
+    <tr>
+      <td>
+        
+[![Learning Roadmap](https://api.roadmap.sh/v1-badge/wide/65237ae4a116eb2c90a2d6b9?variant=dark)](https://github.com/mai-umama/mai-umama) 
+      </td>
+			<td rowspan="2"> [![My Languages](https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css)](https://github.com/mai-umama/mai-umama) </td>
+		</tr>
+		<tr>
+			<td> [![My Stats](https://github-readme-stats-ten-ashy-83.vercel.app/api?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/mai-umama/mai-umama) </td>
+		</tr>
+	</tbody>
+</table>
