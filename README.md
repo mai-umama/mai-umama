@@ -7,6 +7,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mai-umama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mai-umama&theme=dark&hide_border=false)<br/>
 
 
 
@@ -15,6 +16,9 @@
 <table>
   <tbody>
     <tr>
+      <td>  
+.
+      </td>
 			<td rowspan="2"> [![My Languages](https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css)](https://github.com/mai-umama/mai-umama) </td>
 		</tr>
 		<tr>
