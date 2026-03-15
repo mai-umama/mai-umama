@@ -8,7 +8,7 @@
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mai-umama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mai-umama&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mai-umama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -16,12 +16,11 @@
 <table>
   <tbody>
     <tr>
-      <td>  
-		  ![](https://nirzak-streak-stats.vercel.app/?user=mai-umama&theme=dark&hide_border=false)
-		  .
-		  .
+      <td>
+		  
+.
       </td>
-			<td rowspan="2"> [![My Languages](https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css)](https://github.com/mai-umama/mai-umama) </td>
+			<td> [![My Languages](https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css)](https://github.com/mai-umama/mai-umama) </td>
 		</tr>
 		<tr>
 			<td> </td>
