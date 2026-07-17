@@ -13,7 +13,7 @@
       <img src="https://github-readme-stats-ten-ashy-83.vercel.app/api/top-langs/?username=mai-umama&count_private=true&show_icons=true&theme=catppuccin_mocha&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=javascript,css" />
     </td>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-umama&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+     <img src="https://streak-stats.demolab.com?user=mai-umama&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>
